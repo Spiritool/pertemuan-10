@@ -1,0 +1,97 @@
+.Parent-box{
+  width: 80%;
+  height: 80%;
+  overflow: hidden;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.Foto{
+  float: left;
+  width: 550px;
+  height: 500px;
+  background-color: blue;
+}
+
+.Foto img{  
+  width: 550px;
+  height: 500px;
+} 
+
+.desk{
+  margin-top: 27px;
+  width: 550px;
+  height: auto;
+  overflow: hidden;
+  float: left;
+  margin-left: -40px;
+}
+
+.desk .judul{
+  color: rgb(84, 84, 238);
+}
+
+.desk .judul2{
+  font-size: 35px;
+}
+.desk .jelas{
+  color: rgb(163, 154, 142);
+}
+
+.warna .color1{
+  background-color: black;
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+  border-color: rgb(77, 65, 65);
+}
+
+.warna .color2{
+  background-color: rgb(105, 90, 90);
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+  margin-left: 15px;
+  border-color: rgb(143, 127, 127);
+}
+
+.warna .color3{
+  background-color: rgb(255, 254, 254);
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+  margin-left: 15px;
+  border-color: rgb(0, 0, 0);
+}
+
+.desk .ram1{
+  width: 100px;
+  height: 40px;
+  background-color: white;
+}
+
+.desk .ram2{
+  width: 100px;
+  height: 40px;
+  background-color: white;
+  margin-left: 15px;
+}
+
+.desk .config{
+  color: rgb(137, 137, 226);
+}
+
+.desk .harga{
+  font-size: 30px;
+}
+
+.desk .beli{
+  color: white;
+  background-color: rgb(121, 231, 121);
+  width: 120px;
+  height: 40px;
+  margin-top: 0px;
+  margin-left: 20px;
+  border-radius: 10%;
+  border-color: white;
+}
